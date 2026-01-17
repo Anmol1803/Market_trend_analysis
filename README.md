@@ -1,9 +1,5 @@
 # 📈 Market Trend Analysis System
-### Intelligent Stock Scoring, Forecasting & Risk-Aware Decision Framework
-
-🚀 **Primary Project Notebook (Start Here):**  
-👉 [📘 Open Final Notebook](notebook.ipynb)
-
+### Intelligent Stock Scoring, Forecasting & Risk-Aware Decision Framewor
 ---
 
 ## 🧠 Project Overview
